@@ -1,27 +1,10 @@
-# ie9-transpiling-testcase
+# vue-ie-transpile-issue
 
-## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Open http://localhost:8080 in an older browser that doesn't support Symbols e.g. IE 11
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-# vue-ie-transpile-issue

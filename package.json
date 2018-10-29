@@ -1,5 +1,5 @@
 {
-  "name": "ie9-transpiling-testcase",
+  "name": "vue-ie-transpile-issue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,6 +14,7 @@
     "@vue/cli-plugin-babel": "^3.0.4",
     "@vue/cli-plugin-eslint": "^3.0.4",
     "@vue/cli-service": "^3.0.4",
+    "file-type": "^10.2.0",
     "vue-template-compiler": "^2.5.17"
   },
   "eslintConfig": {
